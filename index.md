@@ -10,6 +10,31 @@ My hope is that by sharing what I think I've learned others will find it helpful
 
 ## People
 
+Ted Naiman  
+Jeff Volek  
+Ivor Cummins  
+Steve Phinney  
+Chris Masterjohn  
+Luis Villasenor  
+Robb Wolf  
+Dave Feldman  
+Robert Lustig, MD  
+Dr Jason Fung  
+Jeff Gerber  
+Peter Attia  
+Gary Fettke  
+Belinda Fettke  
+Nina Teicholz  
+Tyler Cartwright  
+Georgia Ede  
+Dominic D’Agostino  
+Gary Taubes  
+Richard Feinman  
+Zoe Harcombe  
+Amber O'Hearn  
+Benjamin Bikman  
+
+
 ## Links
 
 ## Content
