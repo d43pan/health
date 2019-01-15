@@ -33,6 +33,7 @@ Richard Feinman
 Zoe Harcombe  
 Amber O'Hearn  
 Benjamin Bikman  
+Peter Ballerstedt. 
 
 
 ## Links
