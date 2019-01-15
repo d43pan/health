@@ -26,7 +26,7 @@ Gary Fettke
 Belinda Fettke  
 Nina Teicholz  
 Tyler Cartwright  
-Georgia Ede  
+Georgia Ede  [(site)](http://www.diagnosisdiet.com)  
 Dominic D’Agostino  
 Gary Taubes  
 Richard Feinman  
