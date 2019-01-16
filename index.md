@@ -10,7 +10,7 @@ My hope is that by sharing what I think I've learned others will find it helpful
 
 ## People
 
-Ted Naiman  
+Ted Naiman  [(site)](https://burnfatnotsugar.com) 
 Jeff Volek  
 Ivor Cummins  
 Steve Phinney  
