@@ -21,7 +21,7 @@ Dave Feldman
 Robert Lustig, MD  
 Dr Jason Fung  
 Jeff Gerber  
-Peter Attia  
+Peter Attia  [(site)](http://www.peterattiamd.com)  
 Gary Fettke  
 Belinda Fettke  
 Nina Teicholz  
@@ -37,5 +37,6 @@ Peter Ballerstedt.
 
 
 ## Links
+[(Diet Doctor Site)](http://www.dietdoctor.com)
 
 ## Content
