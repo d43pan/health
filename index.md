@@ -37,6 +37,6 @@ Peter Ballerstedt.
 
 
 ## Links
-[(Diet Doctor Site)](http://www.dietdoctor.com)
+[Diet Doctor](http://www.dietdoctor.com)
 
 ## Content
